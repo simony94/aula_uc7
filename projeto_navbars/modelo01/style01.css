@@ -1,0 +1,25 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: palevioletred;
+    border-radius: 5%;
+    
+}
+
+li a{
+    display: block;
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+    border-radius: 5%;
+}
+
+li a:hover{
+    background-color: white;
+    color: pink;
+    border-radius: 5%;
+    text-align: right;
+    margin-bottom: 5px;
+}
